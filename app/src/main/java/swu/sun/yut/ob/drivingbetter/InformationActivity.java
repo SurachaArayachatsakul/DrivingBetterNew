@@ -11,4 +11,5 @@ public class InformationActivity extends AppCompatActivity {
         setContentView(R.layout.activity_information);
     }
 
+
 }
