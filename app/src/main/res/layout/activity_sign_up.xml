@@ -230,7 +230,9 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text=""
+        android:text="@string/save"
         android:id="@+id/button4"
-        android:layout_alignParentBottom="true" />
+        android:layout_alignParentBottom="true"
+        android:textColor="@color/text2"
+        android:textSize="20dp" />
 </RelativeLayout>
