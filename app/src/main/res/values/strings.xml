@@ -26,5 +26,6 @@
     <string name="hint_insure">วันที่ต่อประกันภัยรถยนต์ล่าสุด</string>
     <string name="hint_batt">วันที่เปลี่ยนแบตฯล่าสุด</string>
     <string name="hint_tire">วันที่เติมลมยางล่าสุด</string>
+    <string name="hint_oil">ระยะที่ถ่ายน้ำมันเครื่องล่าสุด</string>
 
 </resources>
